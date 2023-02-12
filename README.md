@@ -41,4 +41,4 @@ For this algorithm, we are given a file named "Constraint". By reading this file
 ### Implementation
 The implementation of this algorithm is just like the previous one with a little difference. After the primary clustering of all data, we have to evaluate the validation or correctness of all the constraints given in the mentioned file. If any constraint is correct, then we do nothing and won't alter any data's cluster but in case of detecting any invalidation in each constraint, we have to change the data's cluster to the right one. 
 
-Just like the previous method, we plot the graphs of the cost function and ratio for different values of k and for using three different numbers of constraints (20, 40, and 60). Conclusions can be made in the same way that is done before 
+Just like the previous method, we plot the graphs of the cost function and ratio for different values of k and for using three different numbers of constraints (20, 40, and 60). Conclusions can be made in the same way that is done before.
